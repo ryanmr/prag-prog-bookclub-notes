@@ -24,7 +24,7 @@ Think about Martin Fowler's quote, and think about what it means.
 
 ### The Cat Ate My Source Code
 
-> Trust in a team us absolutely essential for creativity and collaboration...
+> Trust in a team is absolutely essential for creativity and collaboration...
 
 How do you foster this kind of environment and trust?
 
