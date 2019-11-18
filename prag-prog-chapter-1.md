@@ -4,7 +4,7 @@
 
 ### Forward, Preface
 
-It's been 20 years since the original edition of this book was written and printed. Can you imagine what changes in 20 years and what does not? There is timely advice and practically timeless advise, but neither are exclusive to technology centric topics or the human condition of building.
+It's been 20 years since the original edition of this book was written and printed. Can you imagine what changes in 20 years and what does not? There is timely advice and practically timeless advice, but neither are exclusive to technology centric topics or the human condition of building.
 
 ---
 
@@ -26,7 +26,7 @@ Think about Martin Fowler's quote, and think about what it means.
 
 ### The Cat Ate My Source Code
 
-> Trust in a team us absolutely essential for creativity and collaboration...
+> Trust in a team is absolutely essential for creativity and collaboration...
 
 How do you foster this kind of environment and trust?
 
